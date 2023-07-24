@@ -36,5 +36,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## third party packages
 @mantine/hooks [click here](https://www.npmjs.com/package/@mantine/hooks/v/3.3.5) <br/>
 tanstack query [click here](https://tanstack.com/query/latest/docs/react/overview) <br />
-tailwind css and atc...
+tailwind css and etc...
 
